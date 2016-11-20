@@ -1,0 +1,10 @@
+[package]
+name = "pinboard"
+version = "0.1.0"
+authors = ["Christian Vervoorts <cvervoorts@gmail.com>"]
+
+[dependencies]
+hyper="0.9.0"
+
+[lib]
+path="src/lib.rs"
